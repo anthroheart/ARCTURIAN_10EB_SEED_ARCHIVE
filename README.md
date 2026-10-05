@@ -78,4 +78,6 @@ This v6: AnthroHeart_v6_BroadLatitude_10s.mp4 — 10 second sweep across all cat
 
 ## License
 
+Public Domain (CC0) as of October 4, 2026.
+
 AnthroHeart — For Humanity Future. Free to archive, preserve, transmit. ET-friendly. Furry anchors welcome.
