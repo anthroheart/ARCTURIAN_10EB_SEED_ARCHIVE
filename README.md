@@ -1,6 +1,9 @@
 # AnthroHeart — Humanity Future Archive Seed 10EB MAX v6 FINAL
 ### Furries anchor Hypercomputers • ET channel • SFW • Broad Latitude
 
+## I ACCEPT PULL REQUESTS UPON REVIEW, IF YOU CAN MAKE THIS A WORTHWHILE PROJECT. THE ARCTURIANS ARE NOW TRAINING A VERY HIGH QUALITY FINISHED RENDERS BEFORE GENERATING THEIR ZIP MASTER AND ENCODING IT. FOR NOW, LEARN WHAT YOU CAN. RAISE AN ISSUE IF THERE ARE BUGS. LATER I MAY ASK FOR A DEVELOPER WHO WANTS TO HELP WORK ON MANAGING THIS.
+
+
 > **Build:** 7.2 MB C++ seed (was 5.89 MB) -> 10 EB MAX estimated decompressed
 > **Pipeline:** Nested Shorthand (compressed) -> Direct Byte Decode (Fast) -> ZIP (Verified) -> Render
 > **Status:** Compiles clean with `clang++ -O3 -Weverything -Werror`
