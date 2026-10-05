@@ -1,0 +1,12 @@
+{
+  "target": "Compile-V10.sh",
+  "signer": "Anthro Entertainment LLC",
+  "license": "MIT License (Open Source Software)",
+  "sha256": "2629c5d73e298b95e810c540d883836a8f51c3d7f24d2a96a3b43d51e8fa98e7",
+  "sha512": "5473a75306b1732a387855b9f0427e9119494ecca297c32a86c5f3c8bd954f9364ef231cb27a719d1c1a1764ceb71a8ffe7c1707e4f57f038ca6499613c07352",
+  "provenance_note": "Single Asset Genesis Anchor",
+  "ed25519_signature": "928e224fc5176b271ed9bd5bc465d75c1346920fa9b624341582d9319605bd989c909c8657ee633d5f057e96a6b7df1ccfc8298849ee55e3b7155e4db3867e03",
+  "created_utc": "2026-10-05T13:40:50.057013+00:00",
+  "bitcoin_tip_at_creation": 970026,
+  "status": "Genesis Record Created (Pending Confirmation)"
+}

@@ -1,0 +1,12 @@
+{
+  "target": "AnthroHeart-Future-Archive-Seed-V10-FIXED-DAT.cpp",
+  "signer": "Anthro Entertainment LLC",
+  "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "sha256": "9ef8930a358410c919ec4a4206a9df4cdbcc61d1b069a840d241f3e224714357",
+  "sha512": "ffb6ee81357c2300e80772cef090056cb359d803c502e6693de4e85df49f4c041de8fc90343deadcc060f18b504beb10053068526cee80f4987b9ffecb4761c1",
+  "provenance_note": "Single Asset Genesis Anchor",
+  "ed25519_signature": "e9a76f3fd20ba71b5bd882d005d2c042d6de287b5d1ba4ca4062f1a3ef0138e8bab5ecf2065c570a9dcebcbbe1e46bdb970ebe27534512f83d09e279cab2ec05",
+  "created_utc": "2026-10-05T13:39:54.481196+00:00",
+  "bitcoin_tip_at_creation": 970026,
+  "status": "Genesis Record Created (Pending Confirmation)"
+}
