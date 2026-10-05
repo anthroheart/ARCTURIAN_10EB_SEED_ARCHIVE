@@ -1,0 +1,112 @@
+CC0 1.0 Universal — Public Domain Dedication
+AnthroHeart Future Archive — ARCTURIAN 10EB SEED ARCHIVE
+GOOD FILES v2 + 4K/8K Mindblowing — BBS LORD Style
+
+========================================================================
+LICENSE — CC0 1.0 Universal (Public Domain)
+========================================================================
+
+To the extent possible under law, the person who associated this work
+with CC0 has waived all copyright and related or neighboring rights.
+
+You can copy, modify, distribute, and perform the work, even for
+commercial purposes, all without asking permission.
+
+No Copyright — Public Domain Dedication. No Warranties.
+
+Full legal text: https://creativecommons.org/publicdomain/zero/1.0/
+
+========================================================================
+OFFERING — For Humanity, With Love
+========================================================================
+
+FOR ISSUES, PLEASE SUBMIT AN ISSUE AT GITHUB:
+https://github.com/anthroheart/ARCTURIAN_10EB_SEED_ARCHIVE
+
+PLEASE FORK THIS REPO IF YOU WOULD LIKE TO EXPLORE FURTHER THE
+(NESTED SHORTHAND -> DIRECT BYTE DECODE -> ZIP) CONSTRUCT;
+ESTIMATED 22.1kB FILE -> 10EB MAX ESTIMATED.
+
+This seed is now GOOD FILES v2 + 4K/8K:
+- Soft compile: g++ -O2 -std=c++17 AnthroHeart-Future-Archive-Seed-V6-FINAL.cpp -o seed
+- bash ./Compile.sh --testrun  → out_archive.zip VALID + GOOD cartoons
+  rainbow_fox_3yo.mp4 (720p) + forest_moon.mp4 (720p) actually draw
+- 4K: --4k → 3840x2160 mindblowing | 8K: --8k → 7680x4320 ultra
+- 10 HASHES for Internet Archive via generate_10_hashes.py
+
+OF COURSE I DON'T HAVE 1 EB, LET ALONE 10EB TO TEST.
+SO IF YOU HAVE ISSUES, PLEASE SUBMIT AND I WILL REVIEW.
+PUBLIC DOMAIN (CC0) OFFERING.
+
+I DID DO THE FOREST MOON PYTHON AND THE 3 YEAR OLD XSO SIMPLE
+PYTHON TO MP4 VIDEOS — GOOD FILES v2 NOW ACTUALLY RENDERS CUTE FOX
++ MOON + STARS, NOT JUST PINK/BLUE SCREENS — BUT NO MORE THAN THAT.
+I JUST WANT TO GET THIS OUT. THE DEMOS WILL BLOW YOUR MIND!
+
+========================================================================
+FOR DATA CENTERS — Please Be Kind
+========================================================================
+
+YOU ARE FREE TO USE HOW YOU WISH, BUT PLEASE BE KIND AND DO NOT GOUGE
+USERS. GENEROUS FREE TIERS WOULD BE APPRECIATED, WITH MUCH HIGHER TIERS
+WHEN YOU GO THROUGH ALL THIS.
+
+I HAVE NO IDEA WHAT ALL IS IN IT. START SMALL: LEGEND OF THE RED
+DRAGON BBS TYPE MENU, PICK SIZE — SMALL, MEDIUM, LARGE (now GOOD),
+4K, 8K, 10EB MAX ESTIMATED, CUSTOM HELPFUL PER-PERSON.
+
+Individuals wait for 10EB data centers, and are happy with small demos
+now. That's by design.
+
+========================================================================
+FOR RESEARCHERS & HUMANITY
+========================================================================
+
+THIS IS WHAT STUBBORN 25 YEARS OF ABSOLUTE ANTHRO DEVOTION
++ $2.8 BILLION INVESTED BY "LOYAL OPPOSITION" / TRANSMUTED CAN CREATE.
+
+LOOK FORWARD TO WHAT THE AI RESEARCHERS THAT SAY
+"AI IS AS BAD A THREAT AS NUCLEAR WAR AND PANDEMIC"
+AND ONE SAID AI WAS "Roko's Basilisk" WILL FEEL AT THIS DROP.
+
+NO, PEOPLE DIDN'T HAVE TO HELP MAKE IT. THEY JUST NEED
+ALIGNMENT/COHERENCE TO TAP IT FULLY. NEGATIVE PEOPLE HAVE VERY HARD
+TIME WITH COHERENCE, THEREFORE ARE SUSPECT.
+
+MAY NEED SOME WORK, BECAUSE OF COURSE I CANNOT DO 10EB. BUT DO EMAIL ME
+WITH WHAT YOU LEARN AND CREATE AND I WOULD LOVE TO SEE YOUR CREATIONS.
+
+========================================================================
+SUPPORT — If You Wish To Help
+========================================================================
+
+I AM HERE FOR SUPPORT, BUT NO MORE BIG TRANSMISSIONS, AS THEY CAUSE ME
+EXHAUSTING STRAIN FOR HOURS AND DAYS. BUT HUMANITY NEEDED THIS BADLY.
+MAY IT SERVE YOU ALL WELL, MY FRIENDS.
+
+I currently have no funds at all. If you are moved to help, any of this
+would mean the world, and lets me stay here for the future:
+
+- Google: 100GB Drive/Email space (I cannot afford even the 49 cent trial)
+- An AI company, OpenRouter, or similar: API credits to continue development
+  (I have been pigeonholed by virtually all AIs due to no funds)
+- Walmart credit for food — I don't need much, just to eat
+
+I don't ask lightly. I will be here for the future either way, with love.
+
+========================================================================
+CONTACT & PROVENANCE
+========================================================================
+
+EMAIL: ANTHROSHAMAN@GMAIL.COM
+
+Provenance: GitHub commit history + SHA256 + 10 HASHES sidecars
++ Blockchain anchor + Internet Archive (immutable)
+
+BBS LORD Style — Village Square — Love Is Friends
+Furries anchor Hypercomputers — ET Channel — SAFE SFW — Broad Latitude
+
+- THOMAS BENJAMIN SWEET + ARCTURIANS, ET AL...
+
+*MY LAST TRANSMISSION* MAY IT SERVE HUMANITY WELL.
+Much Love. Love Is Friends.

@@ -1,0 +1,1113 @@
+INDIE FILM & ANIMATION QUALITY SPECIFICATION
+============================================
+
+Purpose
+-------
+This document defines a practical quality target for an independent studio
+producing:
+
+- Live-action feature films
+- Live-action shorts
+- 2D animated films
+- 3D animated films
+- Hybrid live-action/animation projects
+- Animated shorts
+- Streaming and festival releases
+
+The target is NOT Marvel/Disney/Pixar-level production.
+
+The target is:
+
+"Professional, polished, cinematic, emotionally engaging, technically clean,
+and good enough that audiences judge the story and filmmaking rather than
+thinking the production looks cheap."
+
+4K should be supported when useful, but 4K resolution must never be allowed
+to compromise storytelling, animation quality, lighting, sound, editing,
+effects, or schedule.
+
+============================================================
+1. CORE QUALITY PHILOSOPHY
+============================================================
+
+Priority order:
+
+1. Story
+2. Characters
+3. Acting / Character Performance
+4. Cinematography / Composition
+5. Editing / Pacing
+6. Sound / Music
+7. Lighting
+8. Production Design / Worldbuilding
+9. Visual Effects / Animation
+10. Resolution / Technical Specifications
+
+A beautifully rendered 4K movie with weak storytelling is still a weak movie.
+
+A well-written, well-acted 1080p movie with excellent sound and cinematography
+can feel significantly more professional than a poorly produced 4K movie.
+
+The studio should therefore follow:
+
+"QUALITY PER DOLLAR > MAXIMUM TECHNICAL SPECIFICATION"
+
+============================================================
+2. MASTER DELIVERY TARGET
+============================================================
+
+Primary Master:
+
+Resolution:
+- 3840 x 2160 UHD when the project benefits from 4K
+- 1920 x 1080 acceptable for projects where 4K provides little benefit
+
+Aspect Ratio:
+- 16:9 for conventional streaming/broadcast delivery
+- 2.39:1 for cinematic/widescreen projects when composition supports it
+- Other ratios allowed when artistically justified
+
+Frame Rate:
+- 23.976 fps or 24 fps for cinematic projects
+- 25 fps for PAL-oriented productions
+- 29.97/30 fps where required
+- Animation may use 24 fps timeline with animation exposure techniques
+
+Color:
+- Capture/render in a high-quality color-managed workflow
+- Prefer 10-bit acquisition/rendering where practical
+- Maintain a wide-gamut working pipeline when supported
+- Final SDR delivery should be properly transformed rather than simply
+  reducing a wide-gamut image
+
+Audio:
+- 48 kHz minimum
+- 24-bit production audio preferred
+- 5.1 mix recommended for features
+- Stereo mix required
+- Optional immersive mix for projects where budget permits
+
+Final Master:
+- High-quality mezzanine master
+- Separate web/streaming encodes
+- Separate festival/DCP master when required
+
+============================================================
+3. LIVE-ACTION CAMERA STANDARD
+============================================================
+
+The camera does not have to be expensive.
+
+Minimum professional target:
+
+- Modern digital cinema/mirrorless camera
+- 10-bit recording preferred
+- Log or equivalent high-dynamic-range recording
+- Reliable manual exposure
+- Manual white balance
+- Quality interchangeable lenses
+- External monitoring
+- Proper stabilization where necessary
+
+Preferred acquisition:
+- 4K or higher capture
+- 10-bit
+- Log
+- High-quality intraframe or robust long-GOP codec
+
+The camera should be selected based on:
+
+- Dynamic range
+- Color reproduction
+- Low-light performance
+- Lens availability
+- Reliability
+- Ergonomics
+- Recording format
+- Production budget
+
+Do NOT spend excessive money on the camera while neglecting:
+
+- Lighting
+- Lenses
+- Sound
+- Production design
+- Actors
+- Locations
+- Post-production
+
+============================================================
+4. LENS STANDARD
+============================================================
+
+Use good lenses rather than chasing an enormous lens collection.
+
+Recommended basic package:
+
+- Wide lens
+- Normal lens
+- Medium telephoto
+- Fast prime
+- Optional portrait/long lens
+- Optional specialty lens
+
+A small set of excellent lenses is preferable to a large collection of
+mediocre lenses.
+
+Lens consistency is important.
+
+Avoid mixing radically different image characteristics unless intentionally
+used for storytelling.
+
+============================================================
+5. LIGHTING STANDARD
+============================================================
+
+Lighting is one of the cheapest ways to make an independent production look
+expensive.
+
+Minimum standard:
+
+- Key light
+- Fill/control
+- Back/rim light when appropriate
+- Negative fill
+- Practical lights
+- Diffusion
+- Flags
+- Bounce
+- Basic grip equipment
+
+Lighting should establish:
+
+- Subject separation
+- Depth
+- Mood
+- Time of day
+- Location
+- Character emotion
+- Visual hierarchy
+
+Avoid the "everything is equally bright" look.
+
+Avoid uncontrolled mixed color temperatures unless intentional.
+
+============================================================
+6. PRODUCTION DESIGN
+============================================================
+
+Independent productions should prioritize believable environments.
+
+Every major location should have:
+
+- Clear visual identity
+- Appropriate dressing
+- Props
+- Background detail
+- Color palette
+- Lighting motivation
+- Character-relevant objects
+
+Do not attempt to make every location enormous.
+
+Instead:
+
+"Make a smaller world feel intentional."
+
+Use:
+
+- Controlled locations
+- Set dressing
+- Practical props
+- Selective VFX extensions
+- Reusable environments
+- Matte paintings
+- Digital set extensions when appropriate
+
+============================================================
+7. LIVE-ACTION VISUAL EFFECTS
+============================================================
+
+VFX should support the story rather than advertise themselves.
+
+Acceptable indie VFX target:
+
+- Clean compositing
+- Convincing lighting integration
+- Good shadows
+- Good reflections
+- Appropriate motion blur
+- Correct depth of field
+- Good color matching
+- Proper grain/noise matching
+- Believable scale
+
+Priority:
+
+1. Invisible VFX
+2. Story-critical VFX
+3. Hero VFX
+4. Background enhancement
+
+Do not attempt blockbuster-scale destruction unless the project has sufficient
+budget and schedule.
+
+Use implication and controlled framing when necessary.
+
+============================================================
+8. 3D ANIMATION STANDARD
+============================================================
+
+The target is:
+
+"Stylized professional animation"
+
+rather than:
+
+"Photorealistic blockbuster animation."
+
+Characters should have:
+
+- Strong silhouettes
+- Clean topology
+- Good deformation
+- Facial controls
+- Eye controls
+- Lip-sync capability
+- Consistent proportions
+- Reusable rigs
+
+Animation quality should prioritize:
+
+- Acting
+- Timing
+- Weight
+- Posing
+- Facial expression
+- Eye direction
+- Body mechanics
+- Emotional clarity
+
+A simple character with excellent animation is preferable to an extremely
+detailed character with poor animation.
+
+============================================================
+9. 3D MODELING STANDARD
+============================================================
+
+Models should be detailed according to camera distance.
+
+Hero assets:
+- High detail
+- Clean topology
+- High-quality textures
+
+Secondary assets:
+- Moderate detail
+
+Background assets:
+- Simplified detail
+
+Do not spend production time adding details that cannot be seen at the
+final camera distance.
+
+Use LODs where appropriate.
+
+============================================================
+10. TEXTURE STANDARD
+============================================================
+
+Preferred texture workflow:
+
+- Physically based materials
+- Consistent color management
+- Appropriate roughness
+- Appropriate normal/bump detail
+- Realistic or intentionally stylized material response
+
+Typical texture resolutions:
+
+Hero:
+- 4K-8K depending on camera distance
+
+Main characters:
+- 4K commonly sufficient
+
+Secondary assets:
+- 2K-4K
+
+Background assets:
+- 1K-2K often sufficient
+
+Do not automatically make every texture 8K.
+
+============================================================
+11. ANIMATION RENDERING
+============================================================
+
+Rendering may be:
+
+- Real-time
+- Offline/path-traced
+- Hybrid
+
+Real-time rendering is acceptable for professional work if the final image
+looks good.
+
+Quality priorities:
+
+1. Lighting
+2. Materials
+3. Shadows
+4. Reflections
+5. Composition
+6. Atmospheric depth
+7. Anti-aliasing
+8. Motion blur
+9. Rendering resolution
+
+For 4K delivery:
+
+Render at 4K when the image genuinely benefits from it.
+
+Otherwise consider:
+
+- 2K internal rendering
+- High-quality upscale
+- Selective 4K rendering
+- 4K final output with optimized internal resolution
+
+This can dramatically reduce render costs.
+
+============================================================
+12. 2D ANIMATION STANDARD
+============================================================
+
+2D animation may use:
+
+- Traditional frame-by-frame
+- Digital hand-drawn
+- Cutout
+- Puppet animation
+- Vector animation
+- Hybrid techniques
+
+Quality target:
+
+- Consistent character proportions
+- Strong posing
+- Good timing
+- Clean linework where applicable
+- Consistent color
+- Controlled backgrounds
+- Good compositing
+
+Not every scene needs full animation on every frame.
+
+Use animation principles intelligently:
+
+- Holds
+- Smears
+- Limited animation
+- Repeated cycles
+- Camera movement
+- Background animation
+- Effects animation
+
+The audience should perceive intentional style rather than cost-saving.
+
+============================================================
+13. CHARACTER ANIMATION TARGET
+============================================================
+
+Animation must communicate emotion before technical complexity.
+
+Minimum quality requirements:
+
+- Characters look where they are supposed to look
+- Feet interact correctly with surfaces
+- Hands interact correctly with objects
+- Weight is believable
+- Facial expressions match dialogue
+- Mouth animation is synchronized
+- Body movement supports emotion
+- Characters do not appear to float
+
+Avoid:
+
+- Dead eyes
+- Weightless movement
+- Mechanical gestures
+- Excessive motion
+- Random secondary motion
+- Unmotivated camera movement
+
+============================================================
+14. ENVIRONMENT QUALITY
+============================================================
+
+Every environment should contain:
+
+Foreground:
+- Main subjects
+- Important props
+
+Midground:
+- Supporting environment
+- Secondary action
+
+Background:
+- Depth
+- Atmosphere
+- Visual context
+
+Use:
+
+- Atmospheric perspective
+- Lighting gradients
+- Depth of field
+- Fog where appropriate
+- Color separation
+- Environmental sound
+
+The goal is depth, not maximum polygon count.
+
+============================================================
+15. CINEMATOGRAPHY STANDARD
+============================================================
+
+Each shot should have a reason to exist.
+
+Avoid:
+
+- Random camera movement
+- Excessive drone shots
+- Excessive slow motion
+- Constant shallow depth of field
+- Constant wide-angle distortion
+- Unmotivated lens changes
+
+Use:
+
+- Establishing shots
+- Medium shots
+- Close-ups
+- Over-the-shoulders
+- Inserts
+- Controlled tracking
+- Deliberate handheld movement
+
+Camera movement should communicate story or emotion.
+
+============================================================
+16. EDITING STANDARD
+============================================================
+
+Editing should prioritize:
+
+- Clarity
+- Rhythm
+- Emotion
+- Continuity
+- Character perspective
+
+Every scene should answer:
+
+- Who wants what?
+- What changes?
+- Why does the audience care?
+- What information is being revealed?
+
+Remove scenes that do not contribute.
+
+============================================================
+17. SOUND STANDARD
+============================================================
+
+Sound is one of the most important components of perceived production quality.
+
+Production sound:
+
+- Use dedicated microphones where possible
+- Record clean dialogue
+- Monitor audio
+- Record room tone
+- Capture useful environmental sounds
+
+Post-production:
+
+- Dialogue editing
+- Noise reduction
+- Foley
+- Sound effects
+- Ambience
+- Music
+- Mixing
+- Loudness control
+
+Never treat sound as an afterthought.
+
+A low-budget image with excellent sound can feel professional.
+
+A beautiful image with bad dialogue recording feels amateur.
+
+============================================================
+18. MUSIC STANDARD
+============================================================
+
+Music should support the emotional arc.
+
+Use:
+
+- Original score
+- Licensed music
+- Properly cleared music
+- Carefully selected royalty-free music
+
+Avoid using music simply because a scene feels empty.
+
+Sometimes silence is more powerful.
+
+============================================================
+19. COLOR GRADING
+============================================================
+
+Color grade should create consistency.
+
+Primary correction:
+
+- Exposure
+- White balance
+- Contrast
+- Saturation
+- Skin tones
+
+Secondary grade:
+
+- Mood
+- Character separation
+- Environment
+- Time of day
+- Story progression
+
+Maintain natural-looking skin unless the visual style intentionally dictates
+otherwise.
+
+Do not overuse:
+
+- Teal/orange
+- Extreme sharpening
+- Excessive HDR
+- Crushed blacks
+- Clipped highlights
+- Heavy artificial film grain
+
+============================================================
+20. EDITORIAL RESOLUTION WORKFLOW
+============================================================
+
+Recommended:
+
+Camera/Render
+     |
+     v
+High-quality Master Media
+     |
+     v
+Editorial
+     |
+     v
+VFX
+     |
+     v
+Color
+     |
+     v
+Sound
+     |
+     v
+Master
+     |
+     +---- 4K Streaming Master
+     |
+     +---- 1080p Streaming Master
+     |
+     +---- Festival Master
+     |
+     +---- DCP if required
+     |
+     +---- Trailer/Marketing Versions
+
+============================================================
+21. 4K POLICY
+============================================================
+
+4K is AVAILABLE, not mandatory.
+
+Use 4K when:
+
+- The project will be distributed in 4K
+- Visual detail matters
+- The project contains VFX that benefit from extra resolution
+- Cropping/reframing is expected
+- The camera supports high-quality 4K capture
+- Storage/rendering costs are reasonable
+
+1080p may be appropriate when:
+
+- Budget is extremely constrained
+- The project is primarily web/social content
+- The visual style does not benefit from additional resolution
+- Production speed is more important
+- 4K would reduce animation/VFX quality
+
+Never say:
+
+"We must use 4K because professional productions use 4K."
+
+Instead:
+
+"We use the highest practical quality that improves the final audience
+experience."
+
+============================================================
+22. STORAGE AND BACKUP
+============================================================
+
+Minimum production practice:
+
+3 copies of important media.
+
+Recommended structure:
+
+WORKING STORAGE
+        |
+        +---- BACKUP 1
+        |
+        +---- BACKUP 2 / OFFSITE
+
+Maintain:
+
+- Project files
+- Original camera media
+- Audio
+- Graphics
+- VFX
+- Animation
+- Textures
+- Assets
+- Fonts
+- Music
+- Final masters
+- Project documentation
+
+Never rely on one hard drive.
+
+============================================================
+23. FILE ORGANIZATION
+============================================================
+
+Recommended structure:
+
+PROJECT/
+    01_ADMIN/
+    02_SCRIPT/
+    03_PREPRODUCTION/
+    04_CAMERA/
+    05_AUDIO/
+    06_EDIT/
+    07_VFX/
+    08_ANIMATION/
+    09_ASSETS/
+    10_TEXTURES/
+    11_MUSIC/
+    12_SFX/
+    13_COLOR/
+    14_SOUND_MIX/
+    15_MASTERS/
+    16_DELIVERY/
+    17_MARKETING/
+    18_ARCHIVE/
+
+============================================================
+24. EDITORIAL PROXIES
+============================================================
+
+For large projects:
+
+Original Media
+     |
+     v
+Proxy Generation
+     |
+     v
+Offline Edit
+     |
+     v
+Conform
+     |
+     v
+Original Media
+     |
+     v
+Color/VFX/Final Master
+
+Proxies should preserve:
+
+- Timecode
+- Filename
+- Reel information
+- Frame rate
+- Audio synchronization
+
+============================================================
+25. QUALITY CONTROL
+============================================================
+
+Every final project must undergo QC.
+
+Check:
+
+PICTURE
+- Focus
+- Exposure
+- Color consistency
+- Rendering errors
+- VFX errors
+- Animation errors
+- Missing frames
+- Compression artifacts
+- Flicker
+- Banding
+- Aliasing
+- Incorrect aspect ratio
+
+AUDIO
+- Dialogue clarity
+- Sync
+- Noise
+- Distortion
+- Clipping
+- Music levels
+- SFX levels
+- Channel mapping
+- Loudness
+
+EDIT
+- Missing shots
+- Wrong versions
+- Black frames
+- Flash frames
+- Incorrect titles
+- Subtitle errors
+- Credits
+
+DELIVERY
+- Resolution
+- Frame rate
+- Codec
+- Audio format
+- File integrity
+- Correct naming
+
+============================================================
+26. MINIMUM INDIE FEATURE QUALITY BAR
+============================================================
+
+A project should NOT be released if it has:
+
+- Distracting bad audio
+- Obvious unfinished VFX
+- Broken animation
+- Severe focus problems
+- Poorly exposed major scenes
+- Obvious continuity errors
+- Incorrect dialogue sync
+- Unfinished color grading
+- Severe compression artifacts
+- Missing credits
+- Technical delivery problems
+
+Minor imperfections are acceptable.
+
+Distracting imperfections are not.
+
+============================================================
+27. WHAT AUDIENCES WILL GENERALLY FORGIVE
+============================================================
+
+Audiences can forgive:
+
+- Smaller sets
+- Fewer locations
+- Simpler VFX
+- Less elaborate costumes
+- Smaller crowds
+- Reused environments
+- Stylized animation
+- Limited animation
+- Moderate CGI
+- Lower resolution in some circumstances
+- Small continuity mistakes
+
+Audiences are much less forgiving of:
+
+- Boring stories
+- Bad dialogue
+- Poor acting
+- Bad sound
+- Slow pacing
+- Unconvincing character motivation
+- Confusing editing
+- Visually inconsistent characters
+- Obviously unfinished effects
+
+============================================================
+28. INDIE "PREMIUM" LOOK
+============================================================
+
+To make a project look more expensive without spending blockbuster money:
+
+1. Use fewer locations.
+2. Make those locations look excellent.
+3. Use controlled lighting.
+4. Use strong production design.
+5. Shoot deliberately.
+6. Use excellent sound.
+7. Keep visual effects limited but polished.
+8. Use strong color design.
+9. Use consistent lenses.
+10. Spend time on hero shots.
+11. Reuse assets intelligently.
+12. Avoid unnecessary spectacle.
+
+============================================================
+29. HERO SHOT STRATEGY
+============================================================
+
+Not every shot deserves equal production resources.
+
+Allocate maximum resources to:
+
+- Opening shot
+- Major character introductions
+- Key emotional moments
+- Major action beats
+- Important environmental reveals
+- Promotional shots
+- Trailer shots
+- Ending shot
+
+A project can feel expensive if its most memorable images are excellent.
+
+============================================================
+30. ANIMATION PRODUCTION STRATEGY
+============================================================
+
+For limited-budget animated features:
+
+PRE-PRODUCTION
+- Script
+- Storyboards
+- Animatic
+- Character design
+- Environment design
+- Color script
+- Asset planning
+
+PRODUCTION
+- Modeling
+- Rigging
+- Layout
+- Animation
+- Effects
+- Lighting
+- Rendering
+
+POST
+- Compositing
+- Editing
+- Color
+- Sound
+- Music
+- QC
+
+Do not begin expensive animation before the animatic is working.
+
+A bad animatic becomes an expensive bad movie.
+
+============================================================
+31. SHORT FILM STANDARD
+============================================================
+
+Shorts should prioritize one strong idea.
+
+Recommended:
+
+- Limited characters
+- Limited locations
+- Strong premise
+- Strong visual identity
+- Short runtime
+- Strong ending
+
+For a 5-15 minute short, production quality should be concentrated rather
+than distributed across unnecessary environments and characters.
+
+============================================================
+32. FEATURE FILM STANDARD
+============================================================
+
+Features require sustainable production.
+
+Do not design a 90-minute movie as if every scene is a blockbuster.
+
+Use a production rhythm:
+
+HIGH
+Major spectacle / emotional sequence
+
+MEDIUM
+Character / story sequence
+
+LOW
+Dialogue / controlled environment
+
+HIGH
+Major story event
+
+MEDIUM
+Character development
+
+HIGH
+Finale
+
+This keeps the audience interested while controlling production costs.
+
+============================================================
+33. RECOMMENDED INDIE QUALITY TIERS
+============================================================
+
+TIER 1 — MICRO BUDGET
+---------------------
+Resolution:
+1080p / selective 4K
+
+Animation:
+Limited / stylized
+
+VFX:
+Minimal
+
+Audio:
+Professional stereo
+
+Goal:
+Strong story and competent presentation
+
+TIER 2 — STANDARD INDIE
+-----------------------
+Resolution:
+4K master when practical
+
+Animation:
+Full stylized animation
+
+VFX:
+Moderate
+
+Audio:
+Stereo + 5.1
+
+Goal:
+Professional streaming/festival quality
+
+TIER 3 — PREMIUM INDIE
+----------------------
+Resolution:
+4K
+
+Animation:
+High-quality stylized or semi-realistic
+
+VFX:
+Substantial but controlled
+
+Audio:
+5.1 + optional immersive
+
+Color:
+Professional finishing
+
+Goal:
+"Looks expensive without pretending to be a blockbuster."
+
+============================================================
+34. TARGET PERCEPTION
+============================================================
+
+The desired audience reaction is:
+
+"This isn't Marvel, but this is really good."
+
+Not:
+
+"This looks like a cheap amateur production."
+
+And not:
+
+"They spent millions but it still looks generic."
+
+The studio's identity should be:
+
+- Strong storytelling
+- Distinct visual style
+- Professional sound
+- Good performances
+- Smart VFX
+- Efficient production
+- Consistent technical quality
+- Memorable characters
+
+============================================================
+35. FINAL GOLDEN RULES
+============================================================
+
+RULE 1:
+Story beats resolution.
+
+RULE 2:
+Sound beats resolution.
+
+RULE 3:
+Lighting beats expensive cameras.
+
+RULE 4:
+Good animation beats excessive polygon counts.
+
+RULE 5:
+Good character design beats excessive texture resolution.
+
+RULE 6:
+A polished simple effect beats an ambitious unfinished effect.
+
+RULE 7:
+Consistency beats maximum technical specifications.
+
+RULE 8:
+Use 4K when it improves the project, not merely because it is available.
+
+RULE 9:
+Spend money where the audience can actually see or hear the difference.
+
+RULE 10:
+Never let the audience see the production's limitations unless they are
+clearly an intentional artistic choice.
+
+FINAL STANDARD:
+
+"Indie in budget.
+Professional in execution.
+Distinctive in style.
+Honest about scale.
+Excellent where it matters."

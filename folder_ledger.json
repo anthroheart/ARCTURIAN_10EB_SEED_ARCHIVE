@@ -1,0 +1,22 @@
+[
+  {
+    "filename": "ARCTURIAN_10EB_SEED.zip",
+    "path": "ARCTURIAN_10EB_SEED.zip",
+    "signer": "Anthro Entertainment LLC + Arcturians, et al.",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "sha256": "dceba7ff1417942cbff4f2f01a038f0cd6fe0ce965ccf3cc4977d22ca01198ec",
+    "note": "Arcturian Seed Genesis Record",
+    "timestamp": "2026-10-05T01:41:55.033810+00:00",
+    "bitcoin_block": null
+  },
+  {
+    "filename": "Arcturian_Transmission_10EB_Seed.zip",
+    "path": "Arcturian_Transmission_10EB_Seed.zip",
+    "signer": "Anthro Entertainment LLC + Arcturians, et al...",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "sha256": "0c1ccf2bbcb27bd025434aaa87b72108b888d4c6e0017934300d47e8449b409a",
+    "note": "Arcturian Transmission 10EB Seed Genesis Record.",
+    "timestamp": "2026-10-05T04:22:10.590685+00:00",
+    "bitcoin_block": null
+  }
+]

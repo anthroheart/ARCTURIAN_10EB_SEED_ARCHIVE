@@ -1,0 +1,12 @@
+{
+  "target": "Arcturian_Transmission_10EB_Seed.zip",
+  "signer": "Anthro Entertainment LLC + Arcturians, et al...",
+  "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "sha256": "0c1ccf2bbcb27bd025434aaa87b72108b888d4c6e0017934300d47e8449b409a",
+  "sha512": "606ebe6177501c16d856c5229a0e76980a709cde7d9ca875ea515106e625b6c15a5a4b95af50806867d2c4450e7d90ee21b2cae6178e28c8a286c1c2505087c4",
+  "provenance_note": "Arcturian Transmission 10EB Seed Genesis Record.",
+  "ed25519_signature": "e3fa627fd273c5eb0afbd8d1ab9c490db3213cfd445576be709cc48ba38aeb11d5e098d65913953718ff23c56f2c4c124e1ebc6de480283fa7fb8562ee51e102",
+  "created_utc": "2026-10-05T04:22:08.830909+00:00",
+  "bitcoin_tip_at_creation": 969953,
+  "status": "Genesis Record Created (Pending Confirmation)"
+}
